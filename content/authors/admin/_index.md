@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Michał Filuś
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Michał
+last_name: Filuś
 
 # Status emoji
 status:
@@ -17,27 +17,20 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: 
 
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:michalfilus@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/github
-    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/michalfilus1
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/michalfilus
 
 education:
   - area: PhD Artificial Intelligence
